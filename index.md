@@ -4,3 +4,9 @@
 ### this is my first markdown in the start-markdown series
 ### this is my first image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## see my github profile
+```
+$ git clone https://github.com/C-o-m-o-n
+
+```
